@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 Portfolio [https://shahzaib-kesrani.netlify.app/]([https://www.shahzaibkesrani.com](https://shahzaib-kesrani.netlify.app/))
+- 👨‍💻 Portfolio: [https://shahzaib-kesrani.netlify.app/](https://shahzaib-kesrani.netlify.app/)
 
 - 💬 Ask me about **react js,next js,javascript**
 
