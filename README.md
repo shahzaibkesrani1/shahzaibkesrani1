@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibkesrani1" alt="shahzaibkesrani1" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
-
-- 👨‍💻 Portfolio: [https://shahzaib-kesrani.netlify.app/](https://shahzaib-kesrani.netlify.app/)
+- 👨‍💻 Portfolio: [http://shahzaibkesrani.com/)
 
 - 💬 Ask me about **react js,next js,javascript**
 
