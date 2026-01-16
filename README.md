@@ -19,11 +19,5 @@ I build **scalable, high-performance, and user-centric web applications** with m
 ---
 
 ## 🛠️ Tech Stack
-React.js | Next.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Redux | Node.js | Figma  
+React.js | Next.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Redux | Node.js  
 
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibkesrani1&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaibkesrani1&show_icons=true&theme=default)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibkesrani1)
