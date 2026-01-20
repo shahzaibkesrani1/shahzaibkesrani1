@@ -7,7 +7,7 @@ I build **scalable, high-performance, and user-centric web applications** with m
 ---
 
 ## 💻 Portfolio & Projects
-- **Portfolio:** [shahzaibkesrani.com](http://shahzaibkesrani.com)  
+- **Portfolio:** [shahzaibkesrani.vercel.app](https://shahzaibkesrani.vercel.app)  
 - **Product:** [Huntemoji](https://huntemoji.com)  
 
 ---
