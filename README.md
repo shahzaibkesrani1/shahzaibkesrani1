@@ -56,18 +56,6 @@ I build fast, clean, and maintainable web applications — from React dashboards
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaibkesrani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibkesrani&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💬 A bit more about how I work
 
 - I ask questions early so blockers don't turn into delays
